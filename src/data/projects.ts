@@ -7,21 +7,38 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Dictionary App",
-    techs: ["ReactJS (NextJS)", "react-query", "zod"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "Inventory System",
+    techs: ["Node.js (Express.js)", "HTML", "CSS", "JavaScript", "EJS", "Bootstrap"],
+    link: "https://github.com/ptrjs/inventory-system",
   },
   {
-    title: "Portfolio / Lina BLIDI",
-    techs: ["ReactJS (NextJS)", "TypeScript"],
-    link: "https://www.linablidi.fr/",
+    title: "Kaomoji App",
+    techs: ["Dart (Flutter)"],
+    link: "https://github.com/ptrjs/kaomoji_app",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro"],
-    link: "/",
-    isComingSoon: true,
+    title: "News App",
+    techs: ["Dart (Flutter)"],
+    link: "https://github.com/ptrjs/news_app",
   },
+  {
+    title: "Jago Clone",
+    techs: ["Dart (Flutter)"],
+    link: "https://github.com/ptrjs/jago_clone",
+  },
+  {
+    title: "Gojek Clone",
+    techs: ["Dart (Flutter)"],
+    link: "https://github.com/ptrjs/gojek_clone",
+  },
+  {
+    title: "Ovo Clone",
+    techs: ["Dart (Flutter)"],
+    link: "https://github.com/ptrjs/ovo_clone",
+  },
+
+
+
 ];
 
 export default projects;
