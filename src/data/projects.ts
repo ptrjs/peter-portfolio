@@ -36,7 +36,11 @@ const projects: Project[] = [
     techs: ["Dart (Flutter)"],
     link: "https://github.com/ptrjs/gojek_clone",
   },
- 
+  {
+    title: "OVO Clone",
+    techs: ["Dart (Flutter)"],
+    link: "https://github.com/ptrjs/ovo_clone",
+  },
 
 
 
