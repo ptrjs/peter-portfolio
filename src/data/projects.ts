@@ -7,6 +7,11 @@ export type Project = {
 
 const projects: Project[] = [
   {
+    title: "Backend POS Ticketing",
+    techs: ["PHP (Laravel)", "Laravel Sanctum (API)", "Bootstrap"],
+    link: "https://github.com/ptrjs/laravel-wisata-backend",
+  },
+  {
     title: "Inventory System",
     techs: ["Node.js (Express.js)", "HTML", "CSS", "JavaScript", "EJS", "Bootstrap"],
     link: "https://github.com/ptrjs/inventory-system",
@@ -31,11 +36,7 @@ const projects: Project[] = [
     techs: ["Dart (Flutter)"],
     link: "https://github.com/ptrjs/gojek_clone",
   },
-  {
-    title: "Ovo Clone",
-    techs: ["Dart (Flutter)"],
-    link: "https://github.com/ptrjs/ovo_clone",
-  },
+ 
 
 
 
